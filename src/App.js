@@ -25,6 +25,7 @@ function App() {
       renderItem={({ index, style }) => (
         <div key={index} style={style}>
           Row: #{index}
+          ONe
         </div>
       )}
     />
